@@ -6,7 +6,7 @@ This project, **UCI mHealth Dataset**, was created as a college assignment.
 - **Divyansh Garg** – 240953118 
 - **Aayush Kumar Singh** – 240953146
 - **Krrish Tandon** – 240953666
-- **Zaid Akhtar** – 240953XXX
+- **Zaid Akhtar** – 240953680
 - **Sai Harshith Reddy** – 240953498
 
 ## License
